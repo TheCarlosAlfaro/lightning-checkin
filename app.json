@@ -12,7 +12,7 @@
       "backgroundColor": "#ffffff"
     },
     "owner": "carlosalfarodev",
-"scheme": "lightning-checkin",
+    "scheme": "lightning-checkin",
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -20,7 +20,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.carlosalfarodev.lightning-checkin"
     },
     "android": {
       "adaptiveIcon": {
